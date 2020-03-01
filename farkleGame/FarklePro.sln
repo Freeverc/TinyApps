@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FarklePro", "FarklePro\FarklePro.vcxproj", "{BFD99AD0-06FE-4DFC-A7AD-8C553C579498}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFD99AD0-06FE-4DFC-A7AD-8C553C579498}.Debug|x64.ActiveCfg = Debug|x64
+		{BFD99AD0-06FE-4DFC-A7AD-8C553C579498}.Debug|x64.Build.0 = Debug|x64
+		{BFD99AD0-06FE-4DFC-A7AD-8C553C579498}.Debug|x86.ActiveCfg = Debug|Win32
+		{BFD99AD0-06FE-4DFC-A7AD-8C553C579498}.Debug|x86.Build.0 = Debug|Win32
+		{BFD99AD0-06FE-4DFC-A7AD-8C553C579498}.Release|x64.ActiveCfg = Release|x64
+		{BFD99AD0-06FE-4DFC-A7AD-8C553C579498}.Release|x64.Build.0 = Release|x64
+		{BFD99AD0-06FE-4DFC-A7AD-8C553C579498}.Release|x86.ActiveCfg = Release|Win32
+		{BFD99AD0-06FE-4DFC-A7AD-8C553C579498}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F6E93AE-2A01-451C-8EFA-B881A456CFD9}
+	EndGlobalSection
+EndGlobal
