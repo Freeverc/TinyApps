@@ -1,0 +1,6 @@
+﻿  biecaibaikuai.cpp
+D:\ProgramData\VisualStudio\biecaibaikuai\biecaibaikuai\biecaibaikuai.cpp(39,13): warning C4101: “yInit”: 未引用的局部变量
+D:\ProgramData\VisualStudio\biecaibaikuai\biecaibaikuai\biecaibaikuai.cpp(38,11): warning C4101: “m”: 未引用的局部变量
+D:\ProgramData\VisualStudio\biecaibaikuai\biecaibaikuai\biecaibaikuai.cpp(39,6): warning C4101: “xInit”: 未引用的局部变量
+D:\ProgramData\VisualStudio\biecaibaikuai\biecaibaikuai\biecaibaikuai.cpp(43,11): warning C4101: “r”: 未引用的局部变量
+  biecaibaikuai.vcxproj -> D:\ProgramData\VisualStudio\biecaibaikuai\x64\Debug\biecaibaikuai.exe
