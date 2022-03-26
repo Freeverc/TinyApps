@@ -2,11 +2,11 @@
 ##### Aim
 for learing, for fun.
 #### 内容
-1. 俄罗斯方块
-2. 五子棋
-3. 别踩白块儿
-4. 画图软件
-5. farcle游戏
+1. Tetris
+2. Gobang
+3. Don't step on white blocks
+4. Drawing software
+5. farcle game
 6. 
 #### Tools
 Std for c and c++
@@ -17,4 +17,3 @@ Easy X
 
 Qt
 
-反正各种东西都用一下
